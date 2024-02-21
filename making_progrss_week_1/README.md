@@ -1,7 +1,7 @@
-## Build your portfolio project (Week 1): Making Progress
-# Project Title: Maze project
+# Build your portfolio project (Week 1): Making Progress
+## Project Title: Maze project
 
-1. Challenges
+## 1. Challenges
 
 * What challenges have you discovered about your project that were not 
   obvious when you did your research?
@@ -26,14 +26,14 @@
   agreements, and other ethical considerations in game development. Avoiding potential legal issues and ensuring
   the game aligns with ethical standards is an unexpected non-technical challenge.
 
-2. Collaboration/Communication
+## 2. Collaboration/Communication
 
 *  Discuss the challenges and/or success your team has had with collaborating
 
    One major challenge we have had to contend with as a team is, balancing workloads and
    allocating time and other resources effectively.
 
-3. Project Updates
+## 3. Project Updates
 
 *  Outline any changes you are making to your portfolio project’s
    deliverables. Provide reasoning for each
@@ -42,14 +42,14 @@
    delieverable as at the moment of this write-up.
 
 
-4. Progress (advanced)
+## 4. Progress (advanced)
 
 *   On a scale of 1 to 10, how would you rate the progress
-    you’ve made this week?
+    you’ve made this week ?
 
     On a scale of 1 to 10, we will rate our progress at 7/10 for the week
 
-*   How are you measuring your progress?
+*   How are you measuring your progress ?
 
     Progress is usually measured by virture of the magnitude of Tasks that are successfully completed
 
